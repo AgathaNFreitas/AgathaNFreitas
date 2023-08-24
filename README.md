@@ -17,6 +17,8 @@
 
 ![GitHub](https://img.shields.io/badge/git-FFF?style=for-the-badge&logo=git&logoColor=FFCBDB)
 ![JavaScript](https://img.shields.io/badge/GitHub-FFF?style=for-the-badge&logo=GitHub&logoColor=FFCBDB)
+![Node.js](https://img.shields.io/badge/Node-FFF?style=for-the-badge&logo=Node.js&logoColor=FFCBDB)
+
 
 ## 💟 GitHub Stats
 
