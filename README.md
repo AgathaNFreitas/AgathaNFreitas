@@ -1,5 +1,5 @@
 # Agatha Freitas
-  Olá, eu sou a Agatha Freitas estudante de ADS, atualmente busco me tornar uma Desenvolvedora Full-Stack e meu primeiro estágio na área.  
+ Transitando para a tecnologia com paixão por aprendizado. Formação em Analise e Desenvolvimento de Sistemas em andamento, agora buscando desafios inovadores em atuação como DevOps e com Cloud. Comprometida, adaptável e pronta para contribuir.
 
 ## 💟 Conecte-se Comigo
 
